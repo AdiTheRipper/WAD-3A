@@ -4,6 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <!--&copy Adiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii-->
     <title>JavaScript Fundamentals – Part 1</title>
     <style>
       body {
@@ -26,6 +27,7 @@
 
 
   </head>
+  <!--its still mine-->
   <body>
     <h1>Static webpage</h1>
   </body>
