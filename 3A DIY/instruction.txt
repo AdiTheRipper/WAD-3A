@@ -1,0 +1,17 @@
+1. create new folder
+
+2. open command pronmt there and type "npm init"
+
+3. press enter untill "is it ok " prompt 
+
+4. open folder in vs and make new 'app.js' file
+
+5. return back to cmd prompt and type "npm install express --save"
+
+6. copy paste contents in index.js file
+
+7. make new folder "public" with index.html file in it
+
+8. use
+node index.js
+to host file
