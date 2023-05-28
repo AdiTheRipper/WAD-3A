@@ -13,5 +13,5 @@
 7. make new folder "public" with index.html file in it
 
 8. use
-node index.js
+node app.js
 to host file
